@@ -1,0 +1,1 @@
+INSERT INTO bears (name, age, sex) VALUES ('Mr.Chocolate', 3, 'M'),('Rowdy', 2, 'M'),('Tabitha', 4, 'F'),('Sergeant Brown', 6, 'M'),('Melissa', 1, 'F'),('Grinch', 3, 'M'),('Wendy', 3, 'F'),(NULL, 3, 'M');
